@@ -1,7 +1,7 @@
 a = [
-    [int(input),int(input),int(input)],
-    [int(input),int(input),int(input)],
-    [int(input),int(input),int(input)]
+    [1,1,1],
+    [2,5,8],
+    [3,24,63]
 ]
 
 def f(m):
